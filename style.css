@@ -1,0 +1,25 @@
+html {
+    height: 250%;
+    box-sizing: border-box;
+    margin-top: 300px;
+    background: url(https://i.pinimg.com/564x/6d/04/d1/6d04d10cb38e7f76842674e74a3696b7.jpg) center no-repeat;
+    background-size: 150% 300%;
+color: rgb(8, 0, 0); 
+text-size-adjust: auto;
+}  
+   
+
+h1
+{
+color:rgb(15, 1, 1);
+size:100px;
+}
+
+h3
+{
+color:rgb(60, 255, 0);
+size: {40,40};
+
+} 
+
+
